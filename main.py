@@ -1,2 +1,3 @@
 print("Hello World!")
-abc abc abc 
+
+# Tạo hàm 
